@@ -11,8 +11,11 @@ Call by Reference: In Call by Reference, instead of passing a copy of the variab
 Call by Reference is more efficient for large data structures and when you need to modify the original data.
 
 # Codes 
-## Call By Value 1:
+## 1. Call By Value 1:
 ~~~
+//Name: Srihari Nair
+//Prn: 23070123131
+//Class: EnTC B-2
 #include<iostream> 
 using namespace std; 
 void swap(int x, int y) 
@@ -34,8 +37,11 @@ int main()
 ~~~
 ![image](https://github.com/user-attachments/assets/0483aeeb-6d7f-4087-a1ce-1f23ce8f427b)
 
-## Call By Value 2:
+## 2. Call By Value 2:
 ~~~
+//Name: Srihari Nair
+//Prn: 23070123131
+//Class: EnTC B-2
 #include<iostream> 
 using namespace std; 
 void swap(int *x, int *y) 
@@ -57,8 +63,11 @@ int main()
 ~~~
 ![image](https://github.com/user-attachments/assets/fe79dbef-e8a3-455a-b37f-480cae95a1e0)
 
-## Call By Reference:
+## 3. Call By Reference:
 ~~~
+//Name: Srihari Nair
+//Prn: 23070123131
+//Class: EnTC B-2
 #include<iostream> 
 using namespace std; 
 void swap(int *x, int *y) 
