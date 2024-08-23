@@ -35,6 +35,9 @@ int main()
     return 0;
 }
 ~~~
+
+## Output:
+
 ![image](https://github.com/user-attachments/assets/0483aeeb-6d7f-4087-a1ce-1f23ce8f427b)
 
 ## 2. Call By Value 2:
@@ -61,6 +64,9 @@ int main()
     return 0;
 }
 ~~~
+
+## Output:
+
 ![image](https://github.com/user-attachments/assets/fe79dbef-e8a3-455a-b37f-480cae95a1e0)
 
 ## 3. Call By Reference:
@@ -87,6 +93,8 @@ int main()
     return 0;
 }
 ~~~
+
+## Output:
 
 ![image](https://github.com/user-attachments/assets/697e29ba-f23f-4bdd-9ed6-20d01378c986)
 
